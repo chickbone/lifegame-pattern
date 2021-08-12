@@ -1,0 +1,6 @@
+#CXRLE Pos=0,1
+x = 121, y = 32, rule = B3/S23
+31bo25bo$32bo25bo$27bo4bo20bo4bo$28b5o21b5o$36b3o$35b5o$35b3ob2o$38b2o
+4$108b4o$107bo3bo$111bo$92b5o13bo$91bo4bo20b4o$96bo19bo3bo$95bo24bo$
+112b2o2bo2bo$112b3o$112b2o2bo2bo$120bo$116bo3bo$117b4o$b5o$o4bo101bo$
+5bo13b5o84bo$4bo13bo4bo79bo4bo$23bo65b5o10b5o$22bo65bo4bo$93bo$92bo!

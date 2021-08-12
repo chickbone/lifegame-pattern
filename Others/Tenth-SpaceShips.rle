@@ -1,0 +1,15 @@
+#CXRLE Pos=0,2
+x = 21, y = 177, rule = B3/S23
+15b6o$14bo5bo$20bo$14bo4bo$14bo$13bo5bo$20bo$13bo6bo$14b7o4$13b8o$12bo
+7bo$20bo$12bo6bo$12bo$11bo7bo$20bo$11bo8bo$12b9o4$11b10o$10bo9bo$20bo$
+10bo8bo$10bo$9bo9bo$20bo$9bo10bo$10b11o4$9b12o$8bo11bo$20bo$8bo10bo$8b
+o$7bo11bo$20bo$7bo12bo$8b13o4$7b14o$6bo13bo$20bo$6bo12bo$6bo$5bo13bo$
+20bo$5bo14bo$6b15o4$5b16o$4bo15bo$20bo$4bo14bo$4bo$3bo15bo$20bo$3bo16b
+o$4b17o4$3b18o$2bo17bo$20bo$2bo16bo$2bo$bo17bo$20bo$bo18bo$2b19o4$b20o
+$o19bo$20bo$o18bo2$o18bo$20bo$o19bo$b20o4$2b19o$bo18bo$20bo$bo17bo$2bo
+$2bo16bo$20bo$2bo17bo$3b18o4$4b17o$3bo16bo$20bo$3bo15bo$4bo$4bo14bo$
+20bo$4bo15bo$5b16o4$6b15o$5bo14bo$20bo$5bo13bo$6bo$6bo12bo$20bo$6bo13b
+o$7b14o4$8b13o$7bo12bo$20bo$7bo11bo$8bo$8bo10bo$20bo$8bo11bo$9b12o4$
+10b11o$9bo10bo$20bo$9bo9bo$10bo$10bo8bo$20bo$10bo9bo$11b10o4$12b9o$11b
+o8bo$20bo$11bo7bo$12bo$12bo6bo$20bo$12bo7bo$13b8o4$14b7o$13bo6bo$20bo$
+13bo5bo$14bo$14bo4bo$20bo$14bo5bo$15b6o!
